@@ -16,8 +16,27 @@ export default defineConfig({
       {
         text: 'Lessen',
         items: [
-          { text: 'Scheikunde', link: '/lessen/scheikunde' },
-          { text: 'Natuurkunde', link: '/lessen/natuurkunde' },
+          { text: 'Overzicht', link: '/lessen/' },
+        ]
+      },
+      {
+        text: 'Natuurkunde',
+        items: [
+          { text: 'Overzicht', link: '/lessen/natuurkunde/' },
+          { text: 'Les 2', link: '/lessen/natuurkunde/les2' },
+        ]
+      },
+      {
+        text: 'Scheikunde',
+        items: [
+          { text: 'Overzicht', link: '/lessen/scheikunde/' },
+          { text: 'Les 1', link: '/lessen/scheikunde/les1' },
+        ]
+      },
+      {
+        text: 'Samenvattingen',
+        items: [
+          { text: 'Overzicht', link: '/samenvattingen/' },
         ]
       }
     ],

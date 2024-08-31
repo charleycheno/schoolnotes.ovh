@@ -2,6 +2,6 @@
 
 Ik probeer elke les voor natuurkunde en scheikunde aantekeningen te maken zodat ik de stof beter begrijp omdat dit de vakken zijn waar veel nieuwe en ingewikkelde stof wordt behandeld. Hier kan je de aantekeningen vinden:
 
-[Natuurkunde](/lessen/natuurkunde)
+[Natuurkunde](./natuurkunde/)
 
-[Scheikunde](/lessen/scheikunde)
+[Scheikunde](./scheikunde/)

@@ -2,4 +2,4 @@
 
 Ik ben een scheikundige.
 
-[Les 1](/lessen/scheikunde/les1)
+[Les 1](./les1)

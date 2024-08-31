@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "School Notes"
-  text: "Een website waar ik aantekeningen maak van belangrijke examenstof."
+  name: School Notes
+  text: Een website waar ik aantekeningen maak van belangrijke examenstof.
   tagline: Gemaakt door Charley
   image:
     src: /logo.svg
@@ -16,6 +16,16 @@ hero:
     - theme: alt
       text: Samenvattingen
       link: /samenvattingen
+features:
+  - icon: Bi
+    title: Biologie
+    details: Biologie bestudeert de levende wereld, van de kleinste cellen tot de meest complexe ecosystemen.
+  - icon: Na
+    title: Natuurkunde
+    details: Natuurkunde richt zich op de wetten en krachten die de natuur en het universum beheersen.
+  - icon: S
+    title: Scheikunde
+    details: Scheikunde gaat over de basisprincipes van chemische reacties, materiaaleigenschappen en moleculaire interacties.
 ---
 
 ## Welkom op mijn website!

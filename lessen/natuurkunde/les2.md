@@ -26,7 +26,7 @@ Hoe hoger de temperatuur, hoe sneller de deeltjes bewegen (V gemiddeld) en hoe m
 
 Gemiddeld heeft ieder deeltje dezelfde kinetische energie.
 
-Er botsen constant moleculen: ecupartitie principe.
+Er botsen constant moleculen: equipartitieprincipe principe.
 
 Snelheidsverdeling grafiek (Boltzmannkromme):
 

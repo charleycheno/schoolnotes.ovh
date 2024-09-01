@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "School Notes",
   description: "Een website waar ik aantekeningen maak van belangrijke examenstof.",
+  head: [["script", { src: "/_vercel/insights/script.js", defer: "true" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

@@ -1,5 +1,7 @@
 # Les 2 over energiebalans bij reacties
 
+02-09-2024
+
 ## Energiebalans (oftwel delta E)
 
 Formule delta E = E reactieproducten - E beginstoffen

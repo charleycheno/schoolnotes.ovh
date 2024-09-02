@@ -45,7 +45,7 @@ Même si ...
 
 ### Spreekvaardigheid (mondeling)
 
-Dit is voor velen een moeilijk onderdeel. Ik weet niet hoe je dit moet aanpakken maar met een goede voorbereiding komt alles heus wel goed. Veel success!
+Dit is voor vele een moeilijk onderdeel. Ik weet niet hoe je dit moet aanpakken maar met een goede voorbereiding komt alles heus wel goed. Veel success!
 
 ## Bronnenlijst
 

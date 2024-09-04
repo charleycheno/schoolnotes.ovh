@@ -29,6 +29,7 @@ export default defineConfig({
           { text: 'Overzicht', link: '/natuurkunde/' },
           { text: 'Les 1', link: '/natuurkunde/les1' },
           { text: 'Les 2', link: '/natuurkunde/les2' },
+          { text: 'Les 3', link: '/natuurkunde/les3' },
         ]
       },
       {
@@ -43,6 +44,8 @@ export default defineConfig({
         text: 'Samenvattingen',
         items: [
           { text: 'Overzicht', link: '/samenvattingen/' },
+          { text: 'Frans', link: '/samenvattingen/frans' },
+          { text: 'Wiskunde', link: '/samenvattingen/wiskunde-b' },
         ]
       }
     ],

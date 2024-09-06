@@ -33,6 +33,7 @@ export default defineConfig({
           { text: 'Les 1', link: '/natuurkunde/les1' },
           { text: 'Les 2', link: '/natuurkunde/les2' },
           { text: 'Les 3', link: '/natuurkunde/les3' },
+          { text: 'Les 4', link: '/natuurkunde/les4' },
         ]
       },
       {

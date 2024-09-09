@@ -43,6 +43,7 @@ export default defineConfig({
           { text: 'Les 1', link: '/scheikunde/les1' },
           { text: 'Les 2', link: '/scheikunde/les2' },
           { text: 'Les 3', link: '/scheikunde/les3' },
+          { text: 'Les 4', link: '/scheikunde/les4' },
         ]
       },
       {

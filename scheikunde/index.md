@@ -11,3 +11,5 @@ Scheikunde is leuk.
 [Les 2](./les2)
 
 [Les 3](./les3)
+
+[Les 3](./les3)

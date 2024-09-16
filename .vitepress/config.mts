@@ -47,6 +47,7 @@ export default defineConfig({
           { text: 'Les 3', link: '/scheikunde/les3' },
           { text: 'Les 4', link: '/scheikunde/les4' },
           { text: 'Les 5', link: '/scheikunde/les5' },
+          { text: 'Les 6', link: '/scheikunde/les6' },
         ]
       },
       {

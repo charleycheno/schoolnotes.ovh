@@ -11,9 +11,6 @@ hero:
     alt: Logo
   actions:
     - theme: brand
-      text: Lessen
-      link: /lessen
-    - theme: alt
       text: Samenvattingen
       link: /samenvattingen
 features:

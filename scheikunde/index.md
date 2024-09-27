@@ -21,3 +21,5 @@ Scheikunde is leuk.
 [Les 7](./les7)
 
 [Les 8](./les8)
+
+[Les 9](./les9)

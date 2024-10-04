@@ -25,3 +25,5 @@ Natuurkunde is leuk.
 [Les 9](./les9)
 
 [Les 10](./les10)
+
+[Les 11](./les11)
